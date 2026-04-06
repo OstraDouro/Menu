@@ -1,0 +1,2 @@
+PS C:\Users\tinto\Documents\Projects\MenuWebsite> git add -A
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
